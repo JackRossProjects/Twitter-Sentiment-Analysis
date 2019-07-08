@@ -1,11 +1,3 @@
-# Part 1) Streaming Live Tweets // DONE
-# Part 2) Cursor and Paginaton //  DONE
-# Part 3) Analyzing Tweet Data // DONE
-# Part 4) Visualizing Tweet Data // NOT DONE
-# Part 5) Sentiment Analysis // NOT DONE
-
-
-
 from tweepy import API
 from tweepy import Cursor
 from tweepy.streaming import StreamListener
